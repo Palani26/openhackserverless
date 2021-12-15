@@ -1,0 +1,4 @@
+com\azure\function\FunctionTest.class
+com\azure\function\HttpResponseMessageMock.class
+com\azure\function\HttpResponseMessageMock$HttpResponseMessageBuilderMock.class
+com\azure\function\FunctionTest$1.class
