@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="com.azure.function.FunctionTest" time="0.613" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="com.azure.function.FunctionTest" time="0.619" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="11.0.13+8"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-11.0.13.8-hotspot\bin"/>
-    <property name="maven.multiModuleProjectDirectory" value="C:\Users\palan\az-fucntions"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\palan\openhackserverless\az-fucntions"/>
     <property name="java.vm.vendor" value="Eclipse Adoptium"/>
     <property name="java.vendor.url" value="https://adoptium.net/"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -15,7 +15,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="C:\Users\palan\az-fucntions"/>
+    <property name="user.dir" value="C:\Users\palan\openhackserverless\az-fucntions"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="java.runtime.version" value="11.0.13+8"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
@@ -65,5 +65,5 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="com.azure.function.FunctionTest" name="com.azure.function.FunctionTest.testHttpTriggerJava" time="0.613"/>
+  <testcase classname="com.azure.function.FunctionTest" name="com.azure.function.FunctionTest.testHttpTriggerJava" time="0.619"/>
 </testsuite>
