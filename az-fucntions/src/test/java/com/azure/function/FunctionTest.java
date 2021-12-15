@@ -27,7 +27,7 @@ public class FunctionTest {
         final HttpRequestMessage<Optional<String>> req = mock(HttpRequestMessage.class);
 
         final Map<String, String> queryParams = new HashMap<>();
-        queryParams.put("productId", "75542e38-563f-436f-adeb-f426f1dabb5c");
+        queryParams.put("productId", "75s42e38-563f-436f-adeb-f426f1dabb5c");
         doReturn(queryParams).when(req).getQueryParameters();
 
         final Optional<String> queryBody = Optional.empty();
