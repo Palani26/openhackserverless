@@ -38,6 +38,6 @@ jobs:
         with:
           app-name: 'serverlessopenhack-palani'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B871692AECDC4324B88D054597F8E9B4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_191D896EC7BB42D1A14BDE69965EC076 }}
           package: '${{ env.PACKAGE_DIRECTORY }}'
           respect-pom-xml: true
